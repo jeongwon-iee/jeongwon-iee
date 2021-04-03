@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF12?style=round-square&logo=Javascript&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/> 
- <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=AWS&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/> 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongwon-iee&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   	
