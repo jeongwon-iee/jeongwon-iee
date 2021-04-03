@@ -32,8 +32,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>  
  <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=C%2B%2B&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/> 
- <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html&logoColor=white"/> 
- <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html5&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF12?style=round-square&logo=Javascript&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/> 
  <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=AWS&logoColor=white"/> 
