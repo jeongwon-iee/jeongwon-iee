@@ -30,8 +30,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/> 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=Jenkins&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/C%20Sharp-239120?style=round-square&logo=C%20Sharp&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=Jenkins&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=round-square&logo=Kubernetes&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C%20Sharp-239120?style=round-square&logo=C%20Sharp&logoColor=white"/> 
  <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=C%2B%2B&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/> 
  <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html5&logoColor=white"/> 
