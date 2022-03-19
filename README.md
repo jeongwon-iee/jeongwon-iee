@@ -58,7 +58,7 @@
 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿
 <img src="https://img.shields.io/badge/Helm-0F1689?style=round-square&logo=Helm&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jacoco-ff9100?style=round-square&logo=Jacoco&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Jacoco-ff9100?style=round-square&logo=Java&logoColor=white"/>  
 
 <strong>
 🔨 etc
