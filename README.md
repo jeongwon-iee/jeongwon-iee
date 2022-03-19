@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>  
 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲
 <img src="https://img.shields.io/badge/Groovy-E25A1C?style=round-square&logo=Apache-Groovy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scala-DC322F?style=round-square&logo=Scala&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Javascript-F7DF12?style=round-square&logo=Javascript&logoColor=white"/>  
@@ -35,12 +36,12 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=round-square&logo=JUnit5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=round-square&logo=Hibernate&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>  
 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿
 <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=round-square&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=round-square&logo=Spring-Security&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=round-square&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=round-square&logo=Apache-Spark&logoColor=white"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=NGINX&logoColor=white"/>  
 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲
