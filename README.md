@@ -40,12 +40,15 @@
 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿
 <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=round-square&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=round-square&logo=Spring-Security&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=round-square&logo=Apache-Spark&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=round-square&logo=Hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=round-square&logo=Apache-Spark&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=NGINX&logoColor=white"/>  
 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲
 <img src="https://img.shields.io/badge/Kafka-231F20?style=round-square&logo=Apache-Kafka&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=round-square&logo=Apache-Hadoop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=round-square&logo=Apache-Tomcat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Maven-C71A36?style=round-square&logo=Apache-Maven&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=Vue.js&logoColor=white"/>  
 
 <strong>
 🔗 Infra
@@ -53,22 +56,31 @@
 	
 𝗳𝗹𝘂𝗲𝗻𝘁
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=Jenkins&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=round-square&logo=Kubernetes&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=round-square&logo=SonarQube&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=round-square&logo=Kubernetes&logoColor=white"/>  
 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿
 <img src="https://img.shields.io/badge/Helm-0F1689?style=round-square&logo=Helm&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jacoco-ff9100?style=round-square&logo=Java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>  
 
 <strong>
 🔨 etc
 </strong>
 	
+𝗳𝗹𝘂𝗲𝗻𝘁
+<img src="https://img.shields.io/badge/Jacoco-ff9100?style=round-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=round-square&logo=SonarQube&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=round-square&logo=IntelliJ-IDEA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white"/>  
 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿
+<img src="https://img.shields.io/badge/XCode-147EFB?style=round-square&logo=XCode&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Atlassian-0052CC?style=round-square&logo=Atlassian&logoColor=white"/>  
 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=round-square&logo=Unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=round-square&logo=Jupyter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=round-square&logo=OpenCV&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=round-square&logo=Pytorch&logoColor=white"/>  
 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongwon-iee&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
