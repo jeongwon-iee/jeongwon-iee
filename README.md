@@ -72,11 +72,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=round-square&logo=IntelliJ-IDEA&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Confluence-0052CC?style=round-square&logo=Confluence&logoColor=white"/>
 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿
 <img src="https://img.shields.io/badge/XCode-147EFB?style=round-square&logo=XCode&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Atlassian-0052CC?style=round-square&logo=Confluence&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>   
 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=round-square&logo=Unity&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=round-square&logo=Jupyter&logoColor=white"/> 
