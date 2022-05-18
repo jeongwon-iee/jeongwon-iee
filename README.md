@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/XCode-147EFB?style=round-square&logo=XCode&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Atlassian-0052CC?style=round-square&logo=Atlassian&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Atlassian-0052CC?style=round-square&logo=Confluence&logoColor=white"/>  
 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=round-square&logo=Unity&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=round-square&logo=Jupyter&logoColor=white"/> 
