@@ -19,6 +19,7 @@
 	
 𝗳𝗹𝘂𝗲𝗻𝘁
 <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kotlin-7f52ff?style=round-square&logo=Kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>  
 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿 
